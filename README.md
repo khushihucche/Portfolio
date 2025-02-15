@@ -4,7 +4,7 @@ This is made using basics i have learned up unltil now i'm making it resposive <
 
 <a href="https://portfolio-wheat-beta-50.vercel.app/">preview</a> <br><br>
 
-This is my first Git repo, and as I'm still a beginner, I don't intend for it to be my main portfolio just yet. For now, it serves its purpose.<br><br>
+This is my first Git repo, and as I'm still a beginner, I don't intend for it to be my main portfolio just yet. For now, it serves its purpose.which was to make a static site<br><br>
 
 
 <u><b>Tools and languages </u> </b> <ul>
